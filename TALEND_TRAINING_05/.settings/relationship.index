@@ -9,4 +9,19 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_uWshoOdNEfGkssXWzTlUOQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_F5_XYOdPEfGkssXWzTlUOQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_F5_XYOdPEfGkssXWzTlUOQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]

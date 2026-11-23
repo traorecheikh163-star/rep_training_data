@@ -2489,5 +2489,10 @@
     "breaks" : "8.0.0",
     "version" : "8.0.1",
     "status" : "noimpact"
+  }, {
+    "id" : "org.talend.studio.components.tck.snowflake.migration.GenericSnowflakeConnectionToTacokitMigrationTask",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
+    "status" : "noimpact"
   } ]
 }
