@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_OANmgOchEfGiL_kFog5thg" name="client_crm" dataPackage="_OAXXgOchEfGiL_kFog5thg" Server="Localhost 127.0.0.1" FilePath="C:/Users/FKXK4361/OneDrive - orange.com/Documents/Parcours Data/Fic talend/clients_crm.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_OAXXgOchEfGiL_kFog5thg" name="default" dataManager="_OANmgOchEfGiL_kFog5thg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_OAXXgechEfGiL_kFog5thg" id="_3utTUOcgEfGiL_kFog5thg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXguchEfGiL_kFog5thg" label="client_id" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXg-chEfGiL_kFog5thg" label="civilite" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXhOchEfGiL_kFog5thg" label="prenom" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXhechEfGiL_kFog5thg" label="nom" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXhuchEfGiL_kFog5thg" label="email" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXh-chEfGiL_kFog5thg" label="telephone" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXiOchEfGiL_kFog5thg" label="ville" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXiechEfGiL_kFog5thg" label="segment" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXiuchEfGiL_kFog5thg" label="date_inscription" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXi-chEfGiL_kFog5thg" label="canal_prefere" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OAXXjOchEfGiL_kFog5thg" label="consentement_marketing" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
